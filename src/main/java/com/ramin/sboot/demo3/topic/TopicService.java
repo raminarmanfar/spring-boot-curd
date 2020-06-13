@@ -13,12 +13,6 @@ public class TopicService {
     @Autowired
     private TopicRepository topicRepository;
 
-    List<Topic> topics = new ArrayList<Topic>(Arrays.asList(
-                            new Topic("1", "Topic 1", "Desc 1"),
-                            new Topic("2", "Topic 2", "Desc 2"),
-                            new Topic("3", "Topic 3", "Desc 3")
-                        ));
-
     public List<Topic> getAllTopics() {
         List<Topic> topics = new ArrayList<Topic>();
         topicRepository.findAll().forEach(topics::add);
