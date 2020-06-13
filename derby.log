@@ -75,3 +75,19 @@ os.arch=x86_64
 os.version=10.15.5
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Jun 13 15:40:25 CEST 2020:
+Shutting down instance 032302d9-0172-addf-80b1-000001305460 on database directory memory:/Users/raminarmanfar/projects/demo3/6635a776-1bd2-4d97-b9a2-c367f9b56246 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+----------------------------------------------------------------
+Sat Jun 13 15:40:27 CEST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6db54387-0172-addf-80b1-000001305460 
+on database directory memory:/Users/raminarmanfar/projects/demo3/2c136b2d-be71-48dc-8eb5-d91c4409b92e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+Loaded from file:/Users/raminarmanfar/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.2+8
+user.dir=/Users/raminarmanfar/projects/demo3
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
